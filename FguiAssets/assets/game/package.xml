@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ktul9s7r">
+  <resources>
+    <image id="g6ff1" name="淘金.png" path="/assets/"/>
+    <component id="g6ff2" name="MainUI.xml" path="/" exported="true"/>
+    <component id="g6ff3" name="IconBtn.xml" path="/component/button/"/>
+  </resources>
+  <publish name="game\game" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kj1tvru2">
+  <resources>
+    <image id="jf550" name="淘金.png" path="/assets/"/>
+    <component id="jf551" name="LoadingUI.xml" path="/" exported="true"/>
+    <image id="jf552" name="PreLoadingBarBg.png" path="/assets/image/"/>
+    <image id="jf553" name="PreLoadingBar.png" path="/assets/image/" scale="9grid" scale9grid="6,3,328,6"/>
+    <component id="jf554" name="loadProgressBar.xml" path="/component/"/>
+  </resources>
+  <publish name="loading\loading" genCode="true">
+    <atlas compression="true" index="0"/>
+    <atlas compression="true" index="1"/>
+    <atlas compression="true" index="2"/>
+  </publish>
+</packageDescription>
